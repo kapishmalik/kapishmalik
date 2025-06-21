@@ -10,7 +10,7 @@
 
 I'm a results-driven **Principal Engineer** with 8+ years of experience designing and building scalable Java-based web applications. My passion lies in backend development, cloud technologies, and creating robust solutions that drive business success.
 
-- 🏢 **Current Role:** Principal Engineer at Directi Web Technology Pvt. Ltd., Bengaluru, India
+- 🏢 **Current Role:** Principal Engineer at Newfold Digital(former Endurance Group/Directi Web Technology Pvt. Ltd.), Bengaluru, India
 - ⚡ **Expertise:** Java, Spring Boot, GoLang, AWS, Microservices, REST APIs
 - 🛠️ **Cloud & DevOps:** AWS (API Gateway, Lambda, S3, ECS, Route53, CloudFormation), Jenkins, Bamboo
 - 🗄️ **Databases & Caching:** PostgreSQL, Redis, Memcached
@@ -20,7 +20,7 @@ I'm a results-driven **Principal Engineer** with 8+ years of experience designin
 
 ## 🚀 What I Do
 
-- Architect and implement high-performance backend systems & APIs
+- Architect and implement high-performance backend systems
 - Lead cloud migration and microservice modernization projects
 - Mentor junior developers and promote best engineering practices
 - Automate processes for scalability, security, and efficiency
